@@ -1,4 +1,4 @@
-# InstagramDMBot
+# InstaBot
 
 A bot that can send messages for you to Instagram users. Ever wanted to send hundreds of the same text message to a friend or several friends efficiently? Well, now you can!  <-- Please make sure that they are ok with this first! Anything you do with this script is on you!
 
